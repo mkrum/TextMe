@@ -1,14 +1,14 @@
-## TextMe
+# TextMe
 
 Simple command line tool that will text you when your process is done. Requires a free Twilio account.
 
-# Usage
+## Usage
 General Usage:
 <pre><code>textme comand...
 </code></pre>
 This will trigger a text message at the completion of the command.
 
-# Setup
+## Setup
 To compile and run the setup:
 <pre><code>./install.sh
 </code></pre>
